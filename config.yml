@@ -1,0 +1,7 @@
+# Everytime a tree attempts to grow outside its preferred
+# biome, this will determine how likely it will succeed
+naturalGrowthChance: 0.0
+
+# Everytime bonemeal is used on a tree outside its preferred
+# biome, this will determine how likely the tree will grow
+boneMealChance: 0.25
