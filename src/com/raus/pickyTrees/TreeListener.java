@@ -151,7 +151,6 @@ public class TreeListener implements Listener
 
 			if (cancel)
 			{
-				System.out.println("cancelled");
 				event.setCancelled(true);
 			}
 		}
